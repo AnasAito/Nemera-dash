@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { Menu, Popover, Transition } from '@headlessui/react';
-import { TrendChart } from '../components/trendChart';
+import TrendChart from '../components/trendChart';
 import { ArrowDownIcon, ArrowUpIcon } from '@heroicons/react/solid';
 
 const navigation = [
