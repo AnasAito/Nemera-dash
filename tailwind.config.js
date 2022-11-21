@@ -9,6 +9,7 @@ module.exports = {
       },
       colors: {
         'light-blue': colors.lightBlue,
+        orange: colors.orange,
         cyan: colors.cyan,
       },
     },
